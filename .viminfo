@@ -21,9 +21,9 @@ $z
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1694700092,,"wq"
+|2,0,1695058174,,"wq"
 :q
-|2,0,1694700001,,"q"
+|2,0,1694970274,,"q"
 :w
 |2,0,1694556208,,"w"
 :g++arealasso.cpp -0 area
@@ -111,244 +111,289 @@ $z
 # global variables:
 
 # File marks:
-'0  21  0  ~/Suma2lopezcesar.cpp
-|4,48,21,0,1694701060,"~/Suma2lopezcesar.cpp"
-'1  21  0  ~/Suma2lopezcesar.cpp
-|4,49,21,0,1694700092,"~/Suma2lopezcesar.cpp"
-'2  21  0  ~/Suma2lopezcesar.cpp
-|4,50,21,0,1694700001,"~/Suma2lopezcesar.cpp"
-'3  21  0  ~/Suma2lopezcesar.cpp
-|4,51,21,0,1694700001,"~/Suma2lopezcesar.cpp"
-'4  21  0  ~/Suma2lopezcesar.cpp
-|4,52,21,0,1694699966,"~/Suma2lopezcesar.cpp"
-'5  21  0  ~/Suma2lopezcesar.cpp
-|4,53,21,0,1694699966,"~/Suma2lopezcesar.cpp"
-'6  21  0  ~/Suma2lopezcesar.cpp
-|4,54,21,0,1694699966,"~/Suma2lopezcesar.cpp"
-'7  21  0  ~/Suma2lopezcesar.cpp
-|4,55,21,0,1694699966,"~/Suma2lopezcesar.cpp"
-'8  15  34  ~/Sumalopezcesar.cpp
-|4,56,15,34,1694699326,"~/Sumalopezcesar.cpp"
-'9  17  0  ~/Sumalopezcesar.cpp
-|4,57,17,0,1694699147,"~/Sumalopezcesar.cpp"
+'0  41  0  ~/suma3lopezcesar.cpp
+|4,48,41,0,1695058174,"~/suma3lopezcesar.cpp"
+'1  40  0  ~/suma3lopezcesar.cpp
+|4,49,40,0,1695057839,"~/suma3lopezcesar.cpp"
+'2  27  4  ~/suma3lopezcesar.cpp
+|4,50,27,4,1695057730,"~/suma3lopezcesar.cpp"
+'3  27  4  ~/suma3lopezcesar.cpp
+|4,51,27,4,1695057730,"~/suma3lopezcesar.cpp"
+'4  26  4  ~/suma3lopezcesar.cpp
+|4,52,26,4,1695057730,"~/suma3lopezcesar.cpp"
+'5  26  4  ~/suma3lopezcesar.cpp
+|4,53,26,4,1695057730,"~/suma3lopezcesar.cpp"
+'6  12  10  ~/suma3lopezcesar.cpp
+|4,54,12,10,1695057670,"~/suma3lopezcesar.cpp"
+'7  12  10  ~/suma3lopezcesar.cpp
+|4,55,12,10,1695057670,"~/suma3lopezcesar.cpp"
+'8  12  10  ~/suma3lopezcesar.cpp
+|4,56,12,10,1695057670,"~/suma3lopezcesar.cpp"
+'9  12  10  ~/suma3lopezcesar.cpp
+|4,57,12,10,1695057670,"~/suma3lopezcesar.cpp"
 
 # Jumplist (newest first):
--'  21  0  ~/Suma2lopezcesar.cpp
-|4,39,21,0,1694701060,"~/Suma2lopezcesar.cpp"
--'  21  0  ~/Suma2lopezcesar.cpp
-|4,39,21,0,1694700092,"~/Suma2lopezcesar.cpp"
--'  21  0  ~/Suma2lopezcesar.cpp
-|4,39,21,0,1694700001,"~/Suma2lopezcesar.cpp"
--'  21  0  ~/Suma2lopezcesar.cpp
-|4,39,21,0,1694699966,"~/Suma2lopezcesar.cpp"
--'  1  0  ~/Suma2lopezcesar.cpp
-|4,39,1,0,1694699512,"~/Suma2lopezcesar.cpp"
--'  1  0  ~/Suma2lopezcesar.cpp
-|4,39,1,0,1694699512,"~/Suma2lopezcesar.cpp"
--'  1  0  ~/Suma2lopezcesar.cpp
-|4,39,1,0,1694699512,"~/Suma2lopezcesar.cpp"
--'  1  0  ~/Suma2lopezcesar.cpp
-|4,39,1,0,1694699512,"~/Suma2lopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  15  34  ~/Sumalopezcesar.cpp
-|4,39,15,34,1694699326,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699300,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694699147,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  17  0  ~/Sumalopezcesar.cpp
-|4,39,17,0,1694698951,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
--'  11  18  ~/Sumalopezcesar.cpp
-|4,39,11,18,1694698863,"~/Sumalopezcesar.cpp"
+-'  41  0  ~/suma3lopezcesar.cpp
+|4,39,41,0,1695058174,"~/suma3lopezcesar.cpp"
+-'  40  0  ~/suma3lopezcesar.cpp
+|4,39,40,0,1695057839,"~/suma3lopezcesar.cpp"
+-'  27  4  ~/suma3lopezcesar.cpp
+|4,39,27,4,1695057775,"~/suma3lopezcesar.cpp"
+-'  26  4  ~/suma3lopezcesar.cpp
+|4,39,26,4,1695057775,"~/suma3lopezcesar.cpp"
+-'  26  4  ~/suma3lopezcesar.cpp
+|4,39,26,4,1695057730,"~/suma3lopezcesar.cpp"
+-'  12  10  ~/suma3lopezcesar.cpp
+|4,39,12,10,1695057691,"~/suma3lopezcesar.cpp"
+-'  12  10  ~/suma3lopezcesar.cpp
+|4,39,12,10,1695057691,"~/suma3lopezcesar.cpp"
+-'  12  10  ~/suma3lopezcesar.cpp
+|4,39,12,10,1695057691,"~/suma3lopezcesar.cpp"
+-'  12  10  ~/suma3lopezcesar.cpp
+|4,39,12,10,1695057670,"~/suma3lopezcesar.cpp"
+-'  23  0  ~/suma3lopezcesar.cpp
+|4,39,23,0,1695057599,"~/suma3lopezcesar.cpp"
+-'  23  0  ~/suma3lopezcesar.cpp
+|4,39,23,0,1695057599,"~/suma3lopezcesar.cpp"
+-'  23  0  ~/suma3lopezcesar.cpp
+|4,39,23,0,1695057599,"~/suma3lopezcesar.cpp"
+-'  23  0  ~/suma3lopezcesar.cpp
+|4,39,23,0,1695057599,"~/suma3lopezcesar.cpp"
+-'  23  0  ~/suma3lopezcesar.cpp
+|4,39,23,0,1695057515,"~/suma3lopezcesar.cpp"
+-'  40  0  ~/suma3lopezcesar.cpp
+|4,39,40,0,1695057436,"~/suma3lopezcesar.cpp"
+-'  40  0  ~/suma3lopezcesar.cpp
+|4,39,40,0,1695057436,"~/suma3lopezcesar.cpp"
+-'  40  0  ~/suma3lopezcesar.cpp
+|4,39,40,0,1695057436,"~/suma3lopezcesar.cpp"
+-'  40  0  ~/suma3lopezcesar.cpp
+|4,39,40,0,1695057401,"~/suma3lopezcesar.cpp"
+-'  40  0  ~/suma3lopezcesar.cpp
+|4,39,40,0,1695057065,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  1  0  ~/suma3lopezcesar.cpp
+|4,39,1,0,1695055536,"~/suma3lopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
+-'  2  10  ~/mescladesumaslopezcesar.cpp
+|4,39,2,10,1695055497,"~/mescladesumaslopezcesar.cpp"
 
 # History of marks within files (newest to oldest):
 
-> ~/Suma2lopezcesar.cpp
-	*	1694700727	0
-	"	21	0
-	^	21	1
-	.	17	2
-	+	12	26
-	+	7	16
+> ~/suma3lopezcesar.cpp
+	*	1695058170	0
+	"	41	0
+	^	41	1
+	.	39	11
+	+	19	0
+	+	15	10
+	+	16	11
+	+	17	11
+	+	15	8
+	+	16	9
+	+	17	10
 	+	21	0
-	+	17	2
+	+	20	26
+	+	23	1
+	+	41	0
+	+	15	13
+	+	16	14
+	+	17	11
+	+	16	14
+	+	15	13
+	+	17	12
+	+	20	10
+	+	24	10
+	+	39	2
+	+	10	10
+	+	11	10
+	+	12	10
+	+	22	11
+	+	27	5
+	+	30	16
+	+	33	5
+	+	39	11
+	+	22	10
+	+	25	0
+	+	30	16
+	+	39	11
+
+> ~/mescladesumaslopezcesar.cpp
+	*	1695055422	0
+	"	2	10
+	.	2	9
+	+	2	9
+
+> ~/SumaNlopezcesar.cpp
+	*	1695053997	0
+	"	19	0
+	^	19	1
+	.	9	7
+	+	20	0
+	+	19	0
+	+	9	10
+	+	17	12
+	+	9	7
 
 > ~/Sumalopezcesar.cpp
-	*	1694699323	0
-	"	15	34
+	*	1694788568	0
+	"	16	10
 	^	15	35
 	.	15	35
 	+	3	2
@@ -363,6 +408,16 @@ $z
 	+	15	45
 	+	17	0
 	+	15	35
+
+> ~/Suma2lopezcesar.cpp
+	*	1694788483	0
+	"	21	0
+	^	21	1
+	.	17	2
+	+	12	26
+	+	7	16
+	+	21	0
+	+	17	2
 
 > ~/sumalopezcesar.cpp
 	*	1694698433	0
