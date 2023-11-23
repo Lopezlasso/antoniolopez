@@ -1,4 +1,4 @@
-//programa: casas
+//programa: casas1
 //autor: Lopez Cesar
 //fecha: 19-10-2023
 #include<iostream>
